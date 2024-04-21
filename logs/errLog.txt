@@ -1,0 +1,28 @@
+20231217	21:55:22	1e4690d1-9810-4e98-8af4-4b4bdd1faeb8	Error : Not Allowed by cors
+20231227	22:13:18	11c42b23-702d-465a-9b67-93b7c21b4d61	TypeError : filteredArray is not iterable
+20231227	22:13:37	b07f2fc8-9770-4d26-b04e-c9d7220073ba	TypeError : filteredArray is not iterable
+20231231	00:21:04	7d4eb175-88d2-4bf8-92b3-d4dfab0aa1d6	SyntaxError : Unexpected token '"', "#" is not valid JSON
+20231231	00:21:35	16d9b7a4-4fe2-4a90-a699-f04a3a308c1b	SyntaxError : Unexpected token '"', "#" is not valid JSON
+20231231	00:22:22	c5d2f049-9890-4bac-997a-067106c6295b	SyntaxError : Unexpected token '"', "#" is not valid JSON
+20231231	00:24:09	428d54b5-44fd-4f96-a80f-2c166acad3bc	SyntaxError : Unexpected token '"', "#" is not valid JSON
+20231231	00:31:53	ce0b1262-0775-424f-a02e-b7b24f023344	SyntaxError : Unexpected token '"', "#" is not valid JSON
+20231231	00:32:01	75f80dd0-8e33-423b-981a-bc769c47e75e	SyntaxError : Unexpected token '"', "#" is not valid JSON
+20231231	00:35:33	5e317c4a-1c14-4a70-95be-ca276e37b97b	SyntaxError : Unexpected token '"', "#" is not valid JSON
+20240102	14:51:05	9d1010a5-41cf-484d-9553-2203603614ab	TypeError : Cannot read properties of undefined (reading 'id')
+20240102	14:51:34	8208e22f-3499-48f5-95cc-2b171ac99d9e	TypeError : Cannot read properties of undefined (reading 'id')
+20240102	14:52:09	62dc390d-3429-4614-ad35-9d21d64cd1aa	TypeError : Cannot read properties of undefined (reading 'id')
+20240102	14:52:52	a44963bf-027f-4c60-85b4-1aa3826db7d2	TypeError : Cannot read properties of undefined (reading 'id')
+20240102	14:53:17	8ba4511c-018d-4364-b931-bbed2ca0e857	TypeError : Cannot read properties of undefined (reading '_id')
+20240102	14:54:57	5db1d112-7980-4831-842f-7d80e1a9dffa	TypeError : Cannot read properties of undefined (reading 'id')
+20240102	14:54:58	4ebf76d5-1fe1-4304-8e91-7f0484cc6cf3	TypeError : Cannot read properties of undefined (reading 'id')
+20240102	14:55:20	49b48cfa-3fa6-436e-a713-a75ab533359f	TypeError : Cannot read properties of undefined (reading 'key')
+20240102	14:56:33	d0ff9c54-7ffb-44af-b436-b61b49107ec0	TypeError : Cannot read properties of undefined (reading 'key')
+20240102	15:00:05	928f1033-107d-4816-8897-2e662da49b85	SyntaxError : Expected ',' or '}' after property value in JSON at position 15
+20240102	15:02:59	c0fdbce5-2729-4518-87dc-b2e4978652ad	SyntaxError : Expected ',' or '}' after property value in JSON at position 15
+20240102	15:03:19	90bbc6e9-eb72-48ce-984a-7157efcbef5a	SyntaxError : Expected property name or '}' in JSON at position 4
+20240102	18:41:41	c663e6fe-1f1e-4ee2-9152-809dfb622676	SyntaxError : Unexpected token '6', "#" is not valid JSON
+20240114	01:20:44	8b51b306-de35-4086-8f94-7df7d3eea5f3	Error : Not allowed by CORS
+20240114	01:20:44	5121f45f-9d48-4879-bfc0-62807c4fdd10	Error : Not allowed by CORS
+20240114	01:24:21	b5eceb15-7162-4afe-ad54-985e50afebc0	Error : Not allowed by CORS
+20240122	06:46:33	3a14f842-fac3-45ac-8391-085eb6ac8c04	Error : Not allowed by CORS
+20240122	06:46:37	757cec28-c5a4-4014-bb08-178342817722	Error : Not allowed by CORS
